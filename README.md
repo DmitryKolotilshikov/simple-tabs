@@ -1,3 +1,5 @@
+[Open example](https://dmitrykolotilshikov.github.io/simple-tabs/)
+
 # HTML CSS TABS
 
 ```
